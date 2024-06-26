@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <br/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=24prathamesh2004.24prathamesh2004" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathamesh+Bhavsar!;" />
@@ -37,6 +37,8 @@
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <br/>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=24prathamesh2004.24prathamesh2004" />
 </div>
 
  <hr/>
@@ -52,12 +54,17 @@
 <hr/>
 
 <div align="center">
- 
+ <h2>🐍 Snake Eating Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24prathamesh2004&show_icons=true&locale=en&layout=compact" alt="prathamesh-bhavsar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24prathamesh2004&show_icons=true&locale=en" alt="prathamesh-bhavsar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=24prathamesh2004&" alt="prathamesh-bhavsar" /></p>
 
 <hr/>
 
