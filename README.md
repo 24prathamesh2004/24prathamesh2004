@@ -60,6 +60,8 @@
   
   <br/><br/><br/>
 </div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24prathamesh2004&show_icons=true&locale=en&layout=compact" alt="prathamesh-bhavsar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24prathamesh2004&show_icons=true&locale=en" alt="prathamesh-bhavsar" /></p>
