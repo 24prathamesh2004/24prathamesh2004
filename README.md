@@ -22,7 +22,7 @@
 
 😄 Pronouns: **Krishna**
 
-⚡ Fun fact **Smoking Code..**
+⚡ Fun fact **I'm Smoking Code..**
 
 
  </div>
