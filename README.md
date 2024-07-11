@@ -16,7 +16,6 @@
 <br/>
 <div align="center">
  
- 🌱 I’m currently learning **Springboot**
 
 💬 Ask me about **React.js, Tailwind,  or anything [here](https://github.com/24prathamesh2004/24prathamesh2004/issues)**
 
