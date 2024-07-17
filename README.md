@@ -33,11 +33,11 @@
   <a href="https://linkedin.com/in/prathamesh-bhavsar-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://prathamesh-bhavsar.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <br/>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=24prathamesh2004.24prathamesh2004" />
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=24prathamesh2004.24prathamesh2004" />
 </div>
 
  <hr/>
